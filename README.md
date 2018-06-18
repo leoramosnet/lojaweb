@@ -1,4 +1,4 @@
-# Título
+# API Lojaweb (backend)
 
 API para manipular produtos da loja e obter informações de vendas. 
 
